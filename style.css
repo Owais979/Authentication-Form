@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f4f4;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+}
+
+/* Success state: Green highlight */
+.is-valid {
+    border-color: #28a745;
+    background-color: #d4edda;
+}
+
+/* Error state: Red highlight */
+.is-invalid {
+    border-color: #dc3545;
+    background-color: #f8d7da;
+}
